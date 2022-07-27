@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.3.11 (2022-07-27)
+
+
+### Bug Fixes
+
+* remove zip archive from repo ([63899e8](https://github.com/tephra-app/tephra-client/commit/63899e8dde58be02fc06560efa9b7f8d1c11114e))
+
 ### 0.3.10 (2022-07-27)
 
 
